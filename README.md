@@ -1,25 +1,25 @@
-# **STM32 Learning Section**
+# STM32 Learning Section
 
 Welcome to the **STM32 Learning Section**!
 This space is dedicated to helping students learn embedded systems using the **Black Pill STM32F411CEU6** board in a practical, efficient, and modern way.
 
 ---
 
-## ** Our Philosophy**
+## Our Philosophy
 
 We follow simple but powerful principles:
 
-### **1️ Don’t Reinvent the Wheel**
+### 1️ Don’t Reinvent the Wheel
 
 If a solution already exists, study it, adapt it, and improve it.
-Professionals build on existing knowledge — so should we.
+Professionals build on existing knowledge, so should we.
 
-### **2️ Always See What Others Do**
+### 2️ Always See What Others Do
 
 Look at open-source projects, tutorials, GitHub repos, and other engineers’ work.
 You learn faster by standing on the shoulders of others.
 
-### **3 Use Google & Read Application Notes**
+### 3 Use Google & Read Application Notes
 
 Most real-world engineering problems are solved by reading:
 
@@ -28,14 +28,14 @@ Most real-world engineering problems are solved by reading:
 * Forum discussions (ST Community, StackOverflow, etc.)
 * Datasheets
 
-### **4 No One Is an Expert — We Are All Professional Googlers**
+### 4 No One Is an Expert, We Are All Professional Googlers
 
 What matters is not what you know by heart,
 but your ability to search, understand, and apply information quickly.
 
 ---
 
-## ** Hardware Used: STM32F411CEU6 Black Pill**
+##  Hardware Used: STM32F411CEU6 Black Pill
 
 We will use the **Black Pill STM32F411CEU6** development board.
 
@@ -58,9 +58,9 @@ It features:
 
 ---
 
-## **Official STM32 Documentation (Highly Recommended)**
+## Official STM32 Documentation (Highly Recommended)
 
-### **ST Reference Manuals & Datasheets**
+### ST Reference Manuals & Datasheets
 
 * STM32F411 Reference Manual (RM0383):
   [https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411-advanced-armbased-32bit-mcus-stmicroelectronics.pdf](https://www.st.com/resource/en/reference_manual/dm00119316-stm32f411-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
@@ -68,7 +68,7 @@ It features:
 * STM32F4 Series Product Page:
   [https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html](https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html)
 
-### **Official HAL / LL Driver Docs**
+### Official HAL / LL Driver Docs
 
 * HAL/LL API Documentation:
   [https://www.st.com/en/embedded-software/stm32cubef4.html](https://www.st.com/en/embedded-software/stm32cubef4.html)
@@ -76,7 +76,7 @@ It features:
 * STM32CubeF4 Firmware Package (examples included):
   [https://www.st.com/en/embedded-software/stm32cubef4.html](https://www.st.com/en/embedded-software/stm32cubef4.html)
 
-### **ST Application Notes**
+### ST Application Notes
 
 (These are extremely important for real development)
 
@@ -91,9 +91,9 @@ It features:
 
 ---
 
-## **Useful Online Resources**
+## Useful Online Resources
 
-### **Tutorials & Blogs**
+### Tutorials & Blogs
 
 * DeepBlue Embedded (clear tutorials):
   [https://deepbluembedded.com/](https://deepbluembedded.com/)
@@ -104,20 +104,20 @@ It features:
 * Controllerstech:
   [https://controllerstech.com/](https://controllerstech.com/)
 
-### **YouTube**
+### YouTube
 
 * DigiKey STM32 trainings
 * STMicroelectronics Channel
 * phil's lab (For DSP)
 
-### **Tools**
+### Tools
 
 * STM32CubeMX / STM32CubeIDE (pin configuration + code generation)
 * Serial monitors (Putty, CoolTerm, etc.)
 
 ---
 
-## **What You Will Learn**
+## What You Will Learn
 
 Throughout this section, you will practice:
 
@@ -130,7 +130,7 @@ Throughout this section, you will practice:
 
 ---
 
-## **Final Note**
+## Final Note
 
 We are not here to memorize.
 We are here to **build, break, fix, understand, repeat**.
